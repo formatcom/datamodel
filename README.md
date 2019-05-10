@@ -1,3 +1,5 @@
+https://docs.python.org/3/reference/datamodel.html
+
 ~~~
 object.__radd__(self, other)
 object.__rsub__(self, other)
